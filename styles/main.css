@@ -1,0 +1,147 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.thumbnail {
+    margin-top: 100px;
+    width: 1920px;
+    height: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 200px;
+    background-image: url(../imgs/header-bg.png);
+    background-position: 302px;
+    background-repeat: no-repeat;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.thumbnail .logo {
+    margin-top: 60px;
+    cursor: pointer;
+}
+
+.thumbnail .figma {
+    margin-top: 559px;
+    display: flex;
+    box-sizing: border-box;
+    Width: 452px;
+    height: 153px;
+    background-color: black;
+    border-radius: 20px;
+    padding: 24px 50px;
+}
+
+.thumbnail .figma h5 {
+    margin-left: 10px;
+    margin-top: 20px;
+    color: white;
+    font-size: 28px;
+    display: block;
+}
+
+.thumbnail .figma h6 {
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+
+/* Intro css */
+
+.intro
+{
+    border-radius: 20px;
+    margin-top: 200px;
+    width: 1920px;
+    height: 960px;
+    background-color: #16192C;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 77px;
+    padding-bottom: 90px;
+    position: relative;
+}
+
+.intro .nav
+{
+    display: flex;
+}
+
+.intro .nav img
+{
+    cursor: pointer;
+    margin-left: 268px;
+    width: 214px;
+    height: 214px;
+}
+.intro nav button
+{
+    margin-top: 60px;
+    margin-left: 421px;
+    width: 184px;
+    height: 60px;
+    background-color: #FF92AE;
+    font-size: 26px;
+    color: white;
+    border-radius:30px;
+}
+.intro center h1
+{
+    font-size: 64px;
+    color: white;
+}
+.intro center h2
+{
+    font-size: 36px;
+    color: white;
+    margin-top: 13px;
+}
+.intro center p
+{
+    font-size: 30px;
+    color: white;
+    margin-top: 67px;
+}
+.intro center img
+{
+    position: absolute;
+    left: 1601px;
+    top: 307px;
+}
+.intro .footer
+{
+    margin-top: 174px;
+    display: flex;
+}
+.intro .footer h2
+{
+    margin-left: 80px;
+    font-size: 30px;
+    color:white;
+}
+.intro .footer img
+{
+    margin-top: -20px;
+    cursor: pointer;
+}
+.intro .footer h1
+{
+    font-size: 40px;
+    color:white;
+}
+.intro .footer a
+{
+    font-size: 50px;
+    text-decoration: none;
+    margin-left: 881px;
+}
+
+
+
+
+
+
